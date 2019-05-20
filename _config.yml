@@ -1,11 +1,11 @@
 # Site settings
-author: Anthony Molina
-title: 
+author: Anthony
+title: Cobra Kai 
 header-img: img/home-bg.png
 email: antonio-molina@att.net
-copyright_name: Anthony Molina
+copyright_name: Anthony
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Rogue Coder
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Antichrist369
